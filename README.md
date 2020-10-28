@@ -2,7 +2,7 @@
 
 ## About
 Doctors & Patient Management System Full Stack MERN Project.  
-[Live-Site](https://doctors-portal-react.netlify.app)
+[Live-Site](https://kind-northcutt-cb6f9a.netlify.app/)
 
 ## Features 
 > Clients
